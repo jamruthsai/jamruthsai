@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamruthsai&show_icons=true&locale=en" alt="jamruthsai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamruthsai&" alt="jamruthsai" /></p>
+![GitHub metrics](https://metrics.lecoq.io/jamruthsai)
